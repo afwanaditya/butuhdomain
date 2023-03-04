@@ -132,16 +132,16 @@
   content: "100%";
 }
 .progress-line.css span::after{
-  content: "64%";
+  content: "80%";
 }
 .progress-line.PHP span::after{
-  content: "33%";
+  content: "70%";
 }
 .progress-line.MySQL span::after{
-  content: "41%";
+  content: "89%";
 }
 .progress-line.JavaScript span::after{
-  content: "100%";
+  content: "60%";
 }
 
 
