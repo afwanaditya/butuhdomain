@@ -96,6 +96,9 @@
 .bar .progress-line.JavaScript span{
   width: 60%;
 }
+.bar .progress-line.Menfess span{
+  width: 75%;
+}
 .progress-line span::before{
   position: absolute;
   content: "";
@@ -143,7 +146,9 @@
 .progress-line.JavaScript span::after{
   content: "60%";
 }
-
+.progress-line.Menfess span::after{
+  content: "75%";
+}
 
 .teks-berubah {
   font-size: 18px;
