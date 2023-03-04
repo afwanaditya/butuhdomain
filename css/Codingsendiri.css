@@ -85,16 +85,16 @@
   width: 100%;
 }
 .bar .progress-line.css span{
-  width: 64%;
+  width: 80%;
 }
 .bar .progress-line.PHP span{
-  width: 33%;
+  width: 70%;
 }
 .bar .progress-line.MySQL span{
-  width: 41%;
+  width: 89%;
 }
 .bar .progress-line.JavaScript span{
-  width: 100%;
+  width: 60%;
 }
 .progress-line span::before{
   position: absolute;
